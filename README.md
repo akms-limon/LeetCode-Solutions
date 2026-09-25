@@ -43,3 +43,15 @@ More importantly, I want the practice to improve the way I **think about problem
 ## Note
 
 These solutions reflect my learning process. Some solutions may change or be improved as I learn new techniques or discover better approaches.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/akms-limon/LeetCode-Solutions/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/akms-limon/LeetCode-Solutions/tree/master/0066-plus-one) |
+<!---LeetCode Topics End-->
